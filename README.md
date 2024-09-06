@@ -1,4 +1,4 @@
-# Samin-CCNY-Data-Structures-Projects
+# Samin's-Data-Structures-Projects
 Data Structures Projects
 
 This repository contains 5 projects built for CsC 21200 in CCNY and the course was taught by Professor Jun Wu, currently teaching at both CCNY and City Tech. 
